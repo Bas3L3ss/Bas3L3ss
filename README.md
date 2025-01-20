@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bas3l3ss&label=Profile%20views&color=0e75b6&style=flat" alt="bas3l3ss" /> </p>
 
-- 🔭 I’m currently working on **Slackzz Clone**
+- 🔭 I’m currently working on [Slackzz Clone](https://github.com/Bas3L3ss/slackzz-clone)
 
-- 🔭 I’m currently working on **Event Advertisement and Management Platform**
+- 🔭 I’m currently working on [Event Advertisement/Management Platform](https://github.com/Bas3L3ss/event-management-platform)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
