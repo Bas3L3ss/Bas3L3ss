@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=bas3l3ss&label=Profile%20views&color=0e75b6&style=flat" alt="bas3l3ss" />
 </p>
 
-<h2 align="center">🚀 Current Projects</h2>
+<h2 align="center">🚀 Feature Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Bas3L3ss/slackzz-clone">
