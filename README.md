@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/thien hung pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thien hung pham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thien hung pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien hung pham" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/thien hung pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thien hung pham" height="30" width="40" /></a>
+<a href="https://dev.to/thien-hung-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thien hung pham" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thien-hung-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien hung pham" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/thien-hung-pham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thien hung pham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baseless" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="baseless" height="30" width="40" /></a>
 </p>
 
