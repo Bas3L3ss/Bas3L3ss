@@ -35,7 +35,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
   <a href="https://github.com/Bas3L3ss/event-management-platform">
     <img src="https://img.shields.io/badge/-Event%20Management%20Platform-0A66C2?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Management Platform" />
   </a>
-  <a href="https://github.com/Bas3L3ss/slackzz-clone">
+  <a href="https://github.com/Bas3L3ss/slide-webprodigies">
     <img src="https://img.shields.io/badge/-Slide%20Automate-0F52BA?style=for-the-badge&logo=slack&logoColor=white" alt="Slide Automate" />
   </a>
 </p>
