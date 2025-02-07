@@ -63,6 +63,15 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 </details>
 
 <details>
+<details>
+<summary>📐 System Design & Problem Solving</summary>
+
+**System Design:** High-level architecture, scalability, microservices, event-driven design
+**Algorithms & Data Structures:** Graphs, Dynamic Programming, Trees, Trie, Bit Manipulation, and more...
+**Performance Optimization:** Caching strategies, database indexing, load balancing
+</details>
+
+<details>
 <summary>🔧 DevOps & Tools</summary>
 
 - **Containerization:** Docker, Kubernetes
