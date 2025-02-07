@@ -18,13 +18,14 @@
 
 ### 💫 About Me
 
-I'm a passionate Full Stack Software Engineer with a knack for building scalable web applications. Currently pursuing my Bachelor's in Computer Science at Ly Tu Trong College, I specialize in:
+I'm a passionate Full Stack Software Engineer with a knack for building scalable web applications. Currently pursuing my Bachelor's in Computer Science at HCMC University of Technology and Education, I specialize in:
 
 - 🎯 Full-stack web development with modern JavaScript frameworks
 - 🌐 Creating responsive and intuitive user interfaces
 - ⚡ Optimizing application performance and user experience
 - 🔒 Implementing secure authentication systems
 - 🚀 Deploying and maintaining cloud infrastructure
+- 🧠 Drive high-level strategy, lead the team, and enhance core application features.
 
 ### 🎯 Featured Projects
 
