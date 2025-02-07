@@ -90,6 +90,8 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
   <img src="https://github-readme-stats.vercel.app/api?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
        alt="Github Analytics" style="max-width: 48%; min-width: 300px; flex: 1;">
 
+   <img src="https://leetcard.jacoblin.cool/BaseLess_0609?theme=light&font=Allerta%20Stencil&ext=activity" 
+   alt="Github Analytics" style="max-width: 48%; min-width: 300px; flex: 1;">  
 </div>
 
 
