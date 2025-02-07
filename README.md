@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/Bas3L3ss/slackzz-clone">
-    <img src="https://img.shields.io/badge/-Slackzz%20Clone-0A66C2?style=for-the-badge&logo=slack&logoColor=white" alt="Slackzz Clone" />
+    <img src="https://img.shields.io/badge/-Slackzz%20Clone-FF4785?style=for-the-badge&logo=slack&logoColor=white" alt="Slackzz Clone" />
   </a>
   <a href="https://github.com/Bas3L3ss/event-management-platform">
-    <img src="https://img.shields.io/badge/-Event%20Management%20Platform-FF4785?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Management Platform" />
+    <img src="https://img.shields.io/badge/-Event%20Management%20Platform-0A66C2?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Management Platform" />
   </a>
    <a href="https://github.com/Bas3L3ss/slackzz-clone">
-    <img src="https://img.shields.io/badge/-Automate%20Slide-0A66C2?style=for-the-badge&logo=slack&logoColor=white" alt="Slackzz Clone" />
+    <img src="https://img.shields.io/badge/-Slide%20Automate-0F52BA?style=for-the-badge&logo=slack&logoColor=white" alt="Slide automate" />
   </a>
 </p>
 
