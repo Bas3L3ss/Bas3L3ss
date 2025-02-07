@@ -82,12 +82,10 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p align="center flex gap-3">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bas3l3ss&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Most Used Languages" />
 </p>
-![](https://github-readme-stats.vercel.app/api?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🤝 Let's Connect!
 
