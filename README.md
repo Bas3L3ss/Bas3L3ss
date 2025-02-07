@@ -96,7 +96,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thien-hung-pham-4272372b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-thi%C3%AAn-h%C6%B0ng-4272372b6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/29281578/thien-hung-pham" target="_blank">
