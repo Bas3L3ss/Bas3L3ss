@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Full Stack Software Engineer crafting digital experiences in Ho Chi Minh City, Vietnam 🇻🇳</em>
+  <em>Full Stack Software Engineer crafting digital experiences, currently based in Ho Chi Minh City, Vietnam 🇻🇳</em>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### 💫 About Me
 
-I'm a passionate Full Stack Software Engineer with a knack for building scalable web applications. Currently pursuing my Bachelor's in Computer Science at HCMC University of Technology and Education, I specialize in:
+I'm a passionate Full Stack Software Engineer with a knack for building scalable web applications. Looking for remote job opportunities, I specialize in:
 
 - 🎯 Full-stack web development with modern JavaScript frameworks
 - 🌐 Creating responsive and intuitive user interfaces
@@ -85,6 +85,8 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bas3l3ss&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
+![](https://github-readme-stats.vercel.app/api?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🤝 Let's Connect!
 
