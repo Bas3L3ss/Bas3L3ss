@@ -48,17 +48,18 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 - **Core:** JavaScript, TypeScript, React.js, Next.js, Astro
 - **Styling:** Tailwind CSS, Sass, Shadcn UI, Bootstrap
 - **Desktop:** Electron
-- **Testing:** Jest, Cypress, Playwright
+- **Testing:** Jest, Cypress, Playwright, React Testing
 </details>
 
 <details>
 <summary>⚙️ Backend & Infrastructure</summary>
 
 - **Runtime:** Node.js, Python, C#, .NET
-- **APIs:** REST, GraphQL, Express.js
-- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB
+- **APIs:** REST, GraphQL, Express.js, Django
+- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB, NeonDB
+- **Cloud:** AWS, GCP, Vercel, Netlify
+- **Servers & Proxies:** Nginx, Apache
 - **Auth:** JWT, OAuth 2.0, ClerkAuth, Magic Links
-- **Cloud:** AWS, GCP, Vercel, Netlify, Cloudflare
 </details>
 
 <details>
@@ -67,7 +68,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 - **Containerization:** Docker, Kubernetes
 - **CI/CD:** GitHub Actions, GitLab CI
 - **Infrastructure:** Terraform, YAML
-- **Version Control:** Git, GitHub
+- **Version Control:** Git, GitHub, Jenkins
 </details>
 
 ### 📊 GitHub Analytics
