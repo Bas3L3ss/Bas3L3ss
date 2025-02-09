@@ -58,10 +58,11 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 
 - **Runtime:** Node.js, Python, C#, .NET
 - **APIs:** REST, GraphQL, Express.js, Django
-- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB, NeonDB
+- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB, NeonDB, Firebase
 - **Cloud:** AWS, GCP, Vercel, Netlify
 - **Servers & Proxies:** Nginx, Apache
 - **Auth:** JWT, OAuth 2.0, ClerkAuth, Magic Links
+- **Message Broker:** RabbitMQ, Google Cloud Pub/Sub
 </details>
 
 <details>
