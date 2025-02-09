@@ -27,7 +27,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 - 🚀 Deploying and maintaining cloud infrastructure
 - 🧠 Drive high-level strategy, lead the team, and enhance core application features.
 
-### 🎯 Featured Projects
+### 🎯 Featured Projects 
 
 <p align="center">
   <a href="https://github.com/Bas3L3ss/slackzz-clone">
@@ -40,6 +40,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
     <img src="https://img.shields.io/badge/-Slide%20Automate-0F52BA?style=for-the-badge&logo=slack&logoColor=white" alt="Slide Automate" />
   </a>
 </p>
+<p align="center">📌 Check out my pinned repositories for <strong>additional</strong> projects!</p>
 
 ### 🛠️ Tech Arsenal
 
@@ -120,4 +121,4 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 
 <p align="center">
   <em>Open to collaborations and exciting opportunities! Let's build something amazing together. 🚀</em>
-</p>
+</p>  
