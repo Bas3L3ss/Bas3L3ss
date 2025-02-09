@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em>Full Stack Software Engineer crafting digital experiences, currently based in Ho Chi Minh City, Vietnam 🇻🇳</em>
+  <em>Self-taught Full Stack Software Engineer crafting digital experiences, currently based in Ho Chi Minh City, Vietnam 🇻🇳</em>
 </p>
 
 <p align="center">
