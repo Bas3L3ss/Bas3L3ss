@@ -36,8 +36,8 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
   <a href="https://github.com/Bas3L3ss/event-management-platform">
     <img src="https://img.shields.io/badge/-Event%20Management%20Platform-0A66C2?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Management Platform" />
   </a>
-  <a href="https://github.com/Bas3L3ss/slide-webprodigies">
-    <img src="https://img.shields.io/badge/-Slide%20Automate-0F52BA?style=for-the-badge&logo=slack&logoColor=white" alt="Slide Automate" />
+  <a href="https://github.com/Bas3L3ss/apple-store">
+    <img src="https://img.shields.io/badge/-Apple%20ECommerce-white?style=for-the-badge&logo=apple&logoColor=black" alt="Slide Automate" />
   </a>
 </p>
 <p align="center">📌 Check out my pinned repositories for <strong>additional</strong> projects!</p>
@@ -50,36 +50,37 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 - **Core:** JavaScript, TypeScript, React.js, Next.js, Astro
 - **Styling:** Tailwind CSS, Sass, Shadcn UI, Bootstrap
 - **Desktop:** Electron
-- **Testing:** Jest, Cypress, Playwright, React Testing
+- **Testing:** Jest, Cypress, Playwright, React Testing Library
 </details>
 
 <details>
 <summary>⚙️ Backend & Infrastructure</summary>
 
-- **Runtime:** Node.js, Python, C#, .NET
-- **APIs:** REST, GraphQL, Express.js, Django
-- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB, NeonDB, Firebase
-- **Cloud:** AWS, GCP, Vercel, Netlify
-- **Servers & Proxies:** Nginx, Apache
-- **Auth:** JWT, OAuth 2.0, ClerkAuth, Magic Links
-- **Message Broker:** RabbitMQ, Google Cloud Pub/Sub
+- **Runtime:** Node.js, Python, NET (C#)
+- **APIs:** REST, GraphQL, Express.js, Django, tRPC
+- **Databases:** PostgreSQL, MongoDB, Redis, Supabase, ConvexDB, NeonDB, Firebase, MySQL, SQLite, Vector Databases
+- **Cloud:** AWS, Vercel, Netlify
+- **Servers & Proxies:** Nginx, Apache 2.0, Cloudflare
+- **Auth:** JWT, OAuth 2.0, ClerkAuth, Magic Link Authentication
+- **Message Broker:** RabbitMQ, Google Cloud Pub/Sub, Redis Pub/Sub
 </details>
 
 <details>
 <summary>📐 System Design & Problem Solving</summary>
 
 - **System Design:** High-level architecture, scalability, microservices, event-driven design
-- **Algorithms & Data Structures:** Graphs, Dynamic Programming, Trees, Trie, Bit Manipulation, and more...
+- **Algorithms & Data Structures:** Graphs, Dynamic Programming, Trees, Trie, Bit Manipulation, Kadane's Algorithm, Dijkstra, Sliding Window, Disjoint Set
 - **Performance Optimization:** Caching strategies, database indexing, load balancing
 </details>
 
 <details>
 <summary>🔧 DevOps & Tools</summary>
 
-- **Containerization:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI
-- **Infrastructure:** Terraform, YAML
-- **Version Control:** Git, GitHub, Jenkins
+- **Containerization:** Docker, Kubernetes (Helm)
+- **CI/CD:** GitHub Actions
+- **Infrastructure:** Terraform, Pulumi, Ansible, YAML
+- **Version Control:** Git, GitHub
+- **Monitoring & Logging**: Prometheus, Grafana, Loki, Posthog
 </details>
 
 ### 📊 GitHub Analytics
