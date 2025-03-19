@@ -47,10 +47,10 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 <details>
 <summary>📱 Frontend Development</summary>
 
-- **Core:** JavaScript, TypeScript, React.js, Next.js, Astro
+- **Core:** JavaScript, TypeScript, React.js, Next.js, Astro, Vite
 - **Styling:** Tailwind CSS, Sass, Shadcn UI, Bootstrap
-- **Desktop:** Electron
-- **Testing:** Jest, Cypress, Playwright, React Testing Library
+- **Desktop:** Electron, .NET FrameWork 
+- **Testing:** Jest, Playwright, React Testing Library
 </details>
 
 <details>
