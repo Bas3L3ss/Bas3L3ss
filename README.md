@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-base-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+</a>
+</p>
+
+<p align="center">
   <em>Self-taught Full Stack Software Engineer crafting digital experiences, currently based in Ho Chi Minh City, Vietnam 🇻🇳</em>
 </p>
 
