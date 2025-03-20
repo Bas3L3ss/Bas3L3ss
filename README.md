@@ -104,7 +104,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 </div>
 
 
-### 🤝 Let's Connect!
+### 🤝 Other Platforms!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-thi%C3%AAn-h%C6%B0ng-4272372b6/" target="_blank">
