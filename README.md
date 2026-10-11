@@ -73,6 +73,7 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
 
 <details>
 <summary>📐 System Programming, Designing & Problem Solving</summary>
+  
 - **Language:** Rust, C
 - **System Design:** High-level architecture, scalability, microservices, event-driven design
 - **Algorithms & Data Structures:** Graphs, Dynamic Programming, Trees, Trie, Bit Manipulation, Kadane's Algorithm, Dijkstra, Sliding Window, Disjoint Set
