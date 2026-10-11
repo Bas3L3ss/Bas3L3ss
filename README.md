@@ -53,8 +53,8 @@ I'm driven by the desire to go beyond using existing tools and frameworks—to u
 <details>
 <summary>📱 Frontend Development</summary>
 
-- **Core:** JavaScript, TypeScript, React.js, Next.js, Astro, Vite
-- **Styling:** Tailwind CSS, Sass, Shadcn UI, Bootstrap
+- **Core:** HTML, JavaScript, TypeScript, React.js, Next.js, Astro, Vite
+- **Styling:** CSS, Tailwind CSS, Sass, Shadcn UI, Bootstrap
 - **Desktop:** Electron, .NET FrameWork 
 - **Testing:** Jest, Playwright, React Testing Library
 </details>
@@ -83,11 +83,13 @@ I'm driven by the desire to go beyond using existing tools and frameworks—to u
 <details>
 <summary>🔧 DevOps & Tools</summary>
 
+- **Cloud Platforms:** Microsoft Azure, AWS, Google Cloud (GCP)
 - **Containerization:** Docker, Kubernetes (Helm)
 - **CI/CD:** GitHub Actions
-- **Infrastructure:** Terraform, Pulumi, Ansible, YAML
+- **Infrastructure as Code:** Terraform, Pulumi, Ansible
 - **Version Control:** Git, GitHub
-- **Monitoring & Logging**: Prometheus, Grafana, Loki, Posthog
+- **Monitoring & Logging:** Prometheus, Grafana, Loki, PostHog
+
 </details>
 
 ### 📊 GitHub Analytics
