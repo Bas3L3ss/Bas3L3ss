@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Thiên Hưng's Digital Workshop</h1>
+<h1 align="center">👋 Welcome to My Digital Workshop</h1>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=bas3l3ss&label=Profile%20views&color=0e75b6&style=flat">
@@ -13,25 +13,25 @@
 </p>
 
 <p align="center">
-  <em>Self-taught Software Engineer crafting digital experiences, currently based in Ho Chi Minh City, Vietnam 🇻🇳</em>
+  <em>Self-taught Software Engineer crafting digital experiences, currently based in Toronto, ON 🇨🇦</em>
 </p>
 
-<p align="center">
-  <strong>"Building tomorrow's web, one commit at a time"</strong>
-</p>
 
 ---
 
 ### 💫 About Me
 
-I'm a passionate Full Stack Software Engineer with a knack for building scalable web applications. Looking for remote job opportunities, I specialize in:
+I'm a Software Developer passionate about building both full-stack applications and the foundational systems that power modern technology. My long-term goal is to understand and engineer the building blocks of the tech world, from databases, operating systems, and core libraries to scalable application architectures.
 
-- 🎯 Full-stack web development with modern JavaScript frameworks
-- 🌐 Creating responsive and intuitive user interfaces
-- ⚡ Optimizing application performance and user experience
-- 🔒 Implementing secure authentication systems
-- 🚀 Deploying and maintaining cloud infrastructure
-- 🧠 Drive high-level strategy, lead the team, and enhance core application features.
+My areas of focus include:
+
+- **Systems Programming:** Exploring Rust, memory management, data structures, and low-level software design.
+- **Database Engineering:** Building database systems, storage engines, indexing mechanisms, and vector search infrastructure.
+- **Full-Stack Development:** Developing end-to-end applications with modern frontend frameworks, backend services, APIs, and relational and NoSQL databases.
+- **Software Architecture:** Designing maintainable, efficient, and scalable systems with an emphasis on performance and reliability.
+- **Infrastructure & DevOps:** Containerization, cloud deployment, CI/CD pipelines, and infrastructure automation.
+
+I'm driven by the desire to go beyond using existing tools and frameworks—to understand how they work internally, build them from the ground up, and contribute to the foundational technologies that other developers build upon.
 
 ### 🎯 Featured Projects 
 
