@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em>Self-taught Software Engineer crafting digital experiences, currently based in Toronto, ON 🇨🇦</em>
+  <em>Self-taught Software Engineer crafting innovative solutions, currently based in Toronto, ON 🇨🇦</em>
 </p>
 
 
