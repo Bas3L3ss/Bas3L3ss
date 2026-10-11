@@ -42,8 +42,8 @@ I'm a passionate Full Stack Software Engineer with a knack for building scalable
   <a href="https://github.com/Bas3L3ss/event-management-platform">
     <img src="https://img.shields.io/badge/-Event%20Management%20Platform-0A66C2?style=for-the-badge&logo=eventbrite&logoColor=white" alt="Event Management Platform" />
   </a>
-  <a href="https://github.com/Bas3L3ss/apple-store">
-    <img src="https://img.shields.io/badge/-Apple%20ECommerce-white?style=for-the-badge&logo=apple&logoColor=black" alt="Slide Automate" />
+  <a href="https://github.com/Bas3L3ss/base-browser">
+    <img src="https://img.shields.io/badge/-Base%20Browser-orange?style=for-the-badge&logo=apple&logoColor=black" alt="Slide Automate" />
   </a>
 </p>
 <p align="center">📌 Check out my pinned repositories for <strong>additional</strong> projects!</p>
