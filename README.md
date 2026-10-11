@@ -97,8 +97,6 @@ I'm driven by the desire to go beyond using existing tools and frameworks—to u
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bas3l3ss&show_icons=true&locale=en&layout=compact&theme=radical" 
        alt="Most Used Languages" style="max-width: 48%; min-width: 300px; flex: 1;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Bas3L3ss&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
-       alt="Github Analytics" style="max-width: 48%; min-width: 300px; flex: 1;">
 
    <img src="https://leetcard.jacoblin.cool/BaseLess_0609?theme=dark&font=Allerta%20Stencil&ext=activity" 
    alt="Github Analytics" style="max-width: 48%; min-width: 300px; flex: 1;">  
